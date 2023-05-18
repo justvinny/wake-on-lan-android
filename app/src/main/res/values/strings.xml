@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">wake-on-lan-android</string>
+    <string name="btn_save">Save</string>
+    <string name="text_field_mac_address">MAC Address</string>
+    <string name="title_saved_mac_addresses">Saved MAC Addresses</string>
+    <string name="error_msg_invalid_mac_address">Invalid MAC address. Correct Example: 00:11:22:33:44:55</string>
+    <string name="content_wake_on_lan">Send Wake On Lan Magic Packet</string>
+    <string name="content_delete_mac_address">Delete MAC Address</string>
+</resources>
